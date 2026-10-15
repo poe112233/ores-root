@@ -26,3 +26,7 @@ push 到 main → Cloudflare Pages 自动构建（无构建命令，纯静态 + 
 
 2026-10-15 从 Tencent EdgeOne Pages（项目 `orientalessence`）迁到 Cloudflare Pages。
 EdgeOne 版本代码留档在工作区 `ores-root-redirect/`（含回滚用 zip）。
+
+## CI 自检标记
+
+（2026-10-15 通过 push 触发自动部署验证）
